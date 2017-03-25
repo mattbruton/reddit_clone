@@ -2,16 +2,11 @@
 
 .primary-container {
     background-color: $header-background-color-light;
-    height: 62px;
+    height: 60px;
     border-bottom: $header-lower-border;
 }
 
 .logo {
-    max-height: 40px;
+    max-height: 39px;
     margin: 3px 0px -4px 5px;
-}
-
-.list-item + .current-item {
-    background-color: white;
-    color: red;
 }
