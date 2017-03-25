@@ -1,0 +1,12 @@
+@import "~variables.scss";
+
+.tab {
+    height: 15px;
+    display: inline-block;
+    padding: 1px 3.5px;
+    font: 600 12px $header-tab-font-family;
+    color: #336699;
+    margin: 0 1.25px 0 1.25px;
+    text-align: center;
+    background-color: #EFF7FF;
+}
